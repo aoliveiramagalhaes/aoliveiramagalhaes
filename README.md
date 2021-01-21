@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Aline.
 
-![Aline Magalhaes](image.jpg)
+./aoliveiramagalhaes
 
 
 **Visionary, Innovative, Cross-Functional** professional with extensive experience in product and project management, leading cross-functional teams to plan, build, launch and manage top-performing solutions, with Agile/Scrum experience, marketing orientation, and analytical abilities to evolve product strategy that maximizes organization growth.
