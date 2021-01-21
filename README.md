@@ -1,5 +1,5 @@
 
-# Hi there 👋 I'm Aline.
+# Hi there 👋 I'm Aline
 
 ![Banner](./AlineMagalhaes.png)
 
@@ -14,6 +14,9 @@ You can find more details about my experience and skills in my portolio.
 
 **Skills:** REACT / JS / HTML / CSS
 
-- 📫 How to reach me: aoliveiramagalhaes@gmail.com
 
-- 🔭 I’m currently working on this page. 
+### 📫 How to reach me: 
+
+- :email: aoliveiramagalhaes@gmail.com
+- :computer: https://www.linkedin.com/in/aline-magalhaes
+
