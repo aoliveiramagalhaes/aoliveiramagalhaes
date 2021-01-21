@@ -19,4 +19,5 @@ You can find more details about my experience and skills in my portolio.
 
 - :email: aoliveiramagalhaes@gmail.com
 - :computer: https://www.linkedin.com/in/aline-magalhaes
+- :information_source: https://aoliveiramagalhaes.github.io/portfolio
 
