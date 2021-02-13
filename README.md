@@ -10,7 +10,7 @@
 
 I'm excited about software development, mostly because of its ability to deliver products and value right from my laptop.
 
-You can find more details about my experience and skills in my portolio.
+You can find more details about my experience and skills in my portfolio.
 
 **Skills:** REACT / JS / HTML / CSS
 
