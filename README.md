@@ -4,9 +4,9 @@
 ![Banner](./AlineMagalhaes.png)
 
 
-:muscle: I'm a **hard-working, innovative, cross-Functional** professional with extensive experience in Product and Project Management that decided to make the most out of 2020 and is learning to code as a side project.
+:muscle: I'm a **hands-on, self-driven professional** with extensive experience developing products that scale, leading cross-functional teams to plan, develop, launch and manage top-performing products. 
 
-🌱 Last year, I decided to make a switch to Product Management in tech. I have done a lot of courses, from coding, product, and UX. I'm focusing on Product Management, but I wanted an immersion in all tech fronts. I recently became a **Certified Scrum Product Owner** :trophy:
+🌱 In 2020, I decided to learn how to code because I wanted an immersion in all tech fronts.
 
 I decided to build my portfolio to practice what I learn in bootcamps and webinars, and I'm very proud of my work!
 
